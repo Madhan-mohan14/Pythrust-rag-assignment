@@ -55,8 +55,8 @@ The application is built on a modular architecture using the core principles of 
 
 1.  **Clone the repository & install dependencies:**
     ```bash
-    git clone [https://github.com/Madhan-mohan14/Pythrust-rag-assignment.git](https://github.com/Madhan-mohan14/Pythrust-rag-assignment.git)
-    cd Pythrust-rag-assignment
+    git clone [https://github.com/Madhan-mohan14/Madhanmohan-Pythrust-assignment.git](https://github.com/Madhan-mohan14/Madhanmohan-Pythrust-assignment.git)
+    cd Madhanmohan-Pythrust-assignment
     pip install -r requirements.txt 
     ```
 2.  **Set Environment Variables:** Create a `.env` file in the root directory:
