@@ -1,6 +1,6 @@
 #  Q & A prototype
 
-**Live Demo:** [https://multi-doc-pro.streamlit.app/](https://multi-doc-pro.streamlit.app/)
+**Live Demo:** [https://multi-doc-pro.streamlit.app/](https://pythrust-rag-assignment.streamlit.app/)
 
 ## 💡Overview:
 
