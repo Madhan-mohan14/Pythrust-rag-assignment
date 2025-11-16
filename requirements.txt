@@ -1,4 +1,4 @@
-# requirements.txt for Multi-Doc Pro
+# requirements.txt 
 
 # UI/Framework
 streamlit>=1.30.0
@@ -18,4 +18,5 @@ langchain-chroma
 
 # Utility & File Handling
 python-dotenv
+
 pypdf # Necessary dependency for PyPDFLoader
