@@ -1,0 +1,54 @@
+
+# History of the World Wide Web
+
+## Introduction
+The World Wide Web (WWW), invented by Tim Berners-Lee in 1989, transformed the internet from a technical research tool into a global, user-friendly information system. It revolutionized communication, collaboration, business, entertainment, and nearly every aspect of modern life.
+
+## Before the Web
+Before the Web existed, the internet was a text-based network mainly used by scientists and researchers. There were:
+- No websites  
+- No web browsers  
+- No images, videos, or clickable links  
+- Only command-line tools and file transfers  
+
+This made the internet inaccessible to the general public.
+
+## Core Components Created by Tim Berners-Lee
+### HTML (HyperText Markup Language)
+The basic structure for creating web pages.
+
+### URL (Uniform Resource Locator)
+A unique address that identifies each resource online.
+
+### HTTP (HyperText Transfer Protocol)
+A communication system that allows browsers and servers to exchange information.
+
+### Hypertext
+The idea of linking one document to another through clickable text.
+
+## Early Web Development
+In 1991, the first website was launched. By the mid‑1990s, web browsers like Mosaic and Netscape brought images and improved navigation, which made the Web explode in popularity.
+
+## Evolution of the Web
+### Web 1.0 (1990s) — Information Web
+Static websites that users could only read.
+
+### Web 2.0 (2000s) — Social Web
+Interactivity increased through:
+- Social media platforms  
+- Blogs and forums  
+- Video sharing  
+- User‑generated content  
+
+### Web 3.0 (2010s–present) — Intelligent Web
+AI-driven personalization, smart assistants, blockchain technologies, and decentralized platforms.
+
+## Impact of the World Wide Web
+1. **Education:** Free access to learning resources.  
+2. **Communication:** Email, video calls, and instant messaging.  
+3. **Business:** Online banking, e-commerce, digital marketing.  
+4. **Entertainment:** Streaming services, games, social media.  
+5. **Knowledge Sharing:** Billions of websites storing global information.  
+
+## Conclusion
+The Web transformed the digital landscape, democratized information, and continues to evolve as one of humanity’s most influential technological inventions.
