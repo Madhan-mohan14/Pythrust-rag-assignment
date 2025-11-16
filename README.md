@@ -84,7 +84,7 @@ Embeddings + model selection are environment driven
 
 No private or paid datasets used
 
-##🚧 Future Enhancements
+## 🚧 Future Enhancements
 Support .docx and website URLs like (youtube video)
 
 Add prompt-template selector
